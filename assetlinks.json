@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.kunal.playstoredemo",
-    "sha256_cert_fingerprints":
-    ["2E:3A:FE:F3:46:F2:45:11:E0:E5:FA:7A:77:FC:2A:1B:C8:4B:10:A1:A4:C9:15:8B:E3:CE:B3:38:B7:C4:4D:60"]
-  }
-}]
