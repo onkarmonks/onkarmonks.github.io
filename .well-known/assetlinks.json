@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.work.forza",
+    "package_name": "com.tatadigital.ssodummyapp",
     "sha256_cert_fingerprints":
-    ["6B:5D:55:1C:5D:B2:26:AD:DB:E2:3A:5C:97:E6:3C:FA:27:CB:C2:6C:82:42:4B:68:DF:79:5C:22:E9:EA:D5:84"]
+    ["E8:1D:69:94:84:08:B5:F0:98:0A:B8:43:A8:9E:C5:FC:20:1A:22:28:9A:27:AF:3D:E8:D4:03:8B:F8:25:3D:82"]
   }
 }]
