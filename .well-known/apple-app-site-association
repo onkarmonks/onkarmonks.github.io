@@ -6,15 +6,8 @@
                "NOT /login-callback",
                "*"
             ],
-            "appID":"9HM845N73R.com.tcp.merchant.dev"
+            "appID":"5X7SWNN3SU.in.yesbank.genie"
          },
-         {
-            "paths":[
-               "NOT /login-callback",
-               "*"
-            ],
-            "appID":"9HM845N73R.com.tcp.merchant.dev"
-         }
       ],
       "apps":[
          
